@@ -1,0 +1,14 @@
+{
+  "name": "webapi-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "Build Restful API using nodejs and mongodb",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "devDependencies": {
+    "express": "^4.15.4",
+    "expressjs": "^1.0.1",
+    "http": "0.0.0",
+    "mongoose": "^4.11.8"
+  }
+}
